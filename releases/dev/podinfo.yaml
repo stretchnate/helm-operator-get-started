@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: stretchnate/podinfo
-      tag: dev-tbu2orpm
+      tag: dev-rqchb2p9
     replicaCount: 1
     hpa:
       enabled: false
