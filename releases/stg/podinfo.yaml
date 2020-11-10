@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: stretchnate/podinfo
-      tag: stg-p10gaqki
+      tag: stg-vpb5z0jt
     replicaCount: 2
     hpa:
       enabled: true
