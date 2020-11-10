@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: stretchnate/podinfo
-      tag: dev-s9yhzn1s
+      tag: dev-4ahxjbkp
     replicaCount: 1
     hpa:
       enabled: false
